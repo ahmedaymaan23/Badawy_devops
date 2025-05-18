@@ -3,7 +3,7 @@
 
 int main() {
     // Print a welcome message
-    printf("Hello, devops team !\n");
+    printf("Hello, devops team, I'm here!\n");
 
     // Declare two integers
     int a, b, sum;
